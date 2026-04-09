@@ -11,6 +11,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amag1n3)
 [![Profile Views](https://komarev.com/ghpvc/?username=Amag1n3&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Amag1n3)
 
+<br/>
+
+[![Open To Work](https://img.shields.io/badge/💼_OPEN_TO_WORK-Backend_Internships_(Go)-2ea043?style=for-the-badge)](mailto:amoghtyagi22092005@gmail.com)
+
 </div>
 
 ---
@@ -21,7 +25,7 @@
 
 ![Building](https://img.shields.io/badge/🔨_Building-Redis_Compatible_KV_Store_in_Go-7aa2f7?style=for-the-badge)
 ![Open To](https://img.shields.io/badge/💼_Open_To-Backend_Internships-ff9e64?style=for-the-badge)
-![Focus](https://img.shields.io/badge/🎯_Focus-Systems_%7C_Distributed_%7C_Infrastructure-9ece6a?style=for-the-badge)
+![Focus](https://img.shields.io/badge/🎯_Focus-Protocol_Design_|_Storage_Engines_|_Go_Internals-9ece6a?style=for-the-badge)
 
 </div>
 
@@ -35,6 +39,17 @@
 | ⏱️ | **[rate-limiter](https://github.com/Amag1n3/rate-limiter)** | Fixed window + token bucket over Redis. Atomic Lua scripting, GitHub Actions CI |
 | 💬 | **[WireRoom](https://github.com/Amag1n3/WireRoom)** | Production WebSocket chat — goroutines, OAuth 2.0, CSRF, deployed on Railway |
 | ✅ | **[Godo](https://github.com/Amag1n3/Godo)** | Fast CLI task manager with interactive TUI and deadline tracking |
+
+---
+
+## ✍️ writing
+
+> I write about what I build — protocols, storage, and systems from scratch in Go.
+
+<!-- Add posts below as you publish them. Format: - **[Title](url)** — one line on what it covers -->
+
+- **[Building a Redis-compatible KV store from scratch](your-post-url)** — RESP protocol parsing, AOF persistence, and why I didn't just use Redis *(coming soon)*
+- **[Rate limiting at scale: fixed window vs token bucket](your-post-url)** — tradeoffs, Lua atomicity, and the Redis edge cases nobody talks about *(coming soon)*
 
 ---
 
