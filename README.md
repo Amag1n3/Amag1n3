@@ -50,7 +50,7 @@
 
 - **[Building a Redis-compatible KV store from scratch](your-post-url)** — RESP protocol parsing, AOF persistence, and why I didn't just use Redis *(coming soon)*
 - **[Rate limiting at scale: fixed window vs token bucket](your-post-url)** — tradeoffs, Lua atomicity, and the Redis edge cases nobody talks about *(coming soon)*
-- **[Building a production WebSocket chat server in Go](your-post-url)** — goroutine-per-client architecture, thread-safe state with sync.Mutex, and why OAuth 2.0 CSRF matters more than you think *(coming soon)*
+- **[Building a production WebSocket chat server in Go](https://dev.to/amogh_tyagi/building-a-production-websocket-chat-server-in-go-what-i-learned-5969)** — goroutine-per-client architecture, thread-safe state with sync.Mutex, and why OAuth 2.0 CSRF matters more than you think *(coming soon)*
 
 ---
 
