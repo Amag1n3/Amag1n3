@@ -9,6 +9,19 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amoghtyagi22092005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amag1n3/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amag1n3)
+[![Profile Views](https://komarev.com/ghpvc/?username=Amag1n3&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)](https://github.com/Amag1n3)
+
+</div>
+
+---
+
+## 📌 currently
+
+<div align="center">
+
+![Building](https://img.shields.io/badge/🔨_Building-Redis_Compatible_KV_Store_in_Go-7aa2f7?style=for-the-badge)
+![Open To](https://img.shields.io/badge/💼_Open_To-Backend_Internships-ff9e64?style=for-the-badge)
+![Focus](https://img.shields.io/badge/🎯_Focus-Systems_%7C_Distributed_%7C_Infrastructure-9ece6a?style=for-the-badge)
 
 </div>
 
@@ -36,13 +49,6 @@
 ---
 
 ## 📊 stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Amag1n3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amag1n3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&cache_seconds=1800" />
-
-</div>
 
 <div align="center">
 
