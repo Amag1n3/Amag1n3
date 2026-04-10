@@ -80,12 +80,11 @@
 </div>
 
 ---
-
-## 🏆 trophies
+## 📈 activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amag1n3&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amag1n3&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
 </div>
 
