@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amogh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Go%20%7C%20Systems%20%7C%20Infrastructure&descAlignY=58&descAlign=50&descSize=17&descColor=a9b1d6" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+things+close+to+the+metal+%F0%9F%94%A7;Go+%7C+Redis+%7C+Distributed+Systems;Currently%3A+Redis-compatible+KV+store+in+Go;Open+to+backend+internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+things+close+to+the+metal+%F0%9F%94%A7;Go+%7C+Redis+%7C+Distributed+Systems;Backend+Engineer+%7C+Open+to+Internships" alt="Typing SVG" />
 
 <br/>
 
@@ -23,19 +23,17 @@
 
 <div align="center">
 
-![Building](https://img.shields.io/badge/🔨_Building-Redis_Compatible_KV_Store_in_Go-7aa2f7?style=for-the-badge)
 ![Open To](https://img.shields.io/badge/💼_Open_To-Backend_Internships-ff9e64?style=for-the-badge)
-![Focus](https://img.shields.io/badge/🎯_Focus-Protocol_Design_|_Storage_Engines_|_Go_Internals-9ece6a?style=for-the-badge)
+![Focus](https://img.shields.io/badge/🎯_Focus-Backend_Engineering_|_Go_|_Distributed_Systems-9ece6a?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔧 what I'm building
+## 🔧 projects
 
 | | Project | Description |
 |---|---|---|
-| 🗄️ | **[redis-kv](https://github.com/Amag1n3)** | Redis-compatible KV store in Go — RESP protocol, AOF persistence, SET/GET/DEL/EXPIRE/TTL |
 | ⏱️ | **[rate-limiter](https://github.com/Amag1n3/rate-limiter)** | Fixed window + token bucket over Redis. Atomic Lua scripting, GitHub Actions CI |
 | 💬 | **[WireRoom](https://github.com/Amag1n3/WireRoom)** | Production WebSocket chat — goroutines, OAuth 2.0, CSRF, deployed on Railway |
 | ✅ | **[Godo](https://github.com/Amag1n3/Godo)** | Fast CLI task manager with interactive TUI and deadline tracking |
@@ -46,11 +44,8 @@
 
 > I write about what I build — protocols, storage, and systems from scratch in Go.
 
-<!-- Add posts below as you publish them. Format: - **[Title](url)** — one line on what it covers -->
-
-- **[Building a Redis-compatible KV store from scratch](your-post-url)** — RESP protocol parsing, AOF persistence, and why I didn't just use Redis *(coming soon)*
-- **[Rate limiting at scale: fixed window vs token bucket](https://dev.to/amogh_tyagi/rate-limiting-at-scale-building-fixed-window-and-token-bucket-in-go-3m7i)** — tradeoffs, Lua atomicity, and the Redis edge cases nobody talks about *(coming soon)*
-- **[Building a production WebSocket chat server in Go](https://dev.to/amogh_tyagi/building-a-production-websocket-chat-server-in-go-what-i-learned-5969)** — goroutine-per-client architecture, thread-safe state with sync.Mutex, and why OAuth 2.0 CSRF matters more than you think *(coming soon)*
+- **[Rate limiting at scale: fixed window vs token bucket](https://dev.to/amogh_tyagi/rate-limiting-at-scale-building-fixed-window-and-token-bucket-in-go-3m7i)** — tradeoffs, Lua atomicity, and the Redis edge cases nobody talks about
+- **[Building a production WebSocket chat server in Go](https://dev.to/amogh_tyagi/building-a-production-websocket-chat-server-in-go-what-i-learned-5969)** — goroutine-per-client architecture, thread-safe state with sync.Mutex, and why OAuth 2.0 CSRF matters more than you think
 
 ---
 
@@ -80,6 +75,7 @@
 </div>
 
 ---
+
 ## 📈 activity
 
 <div align="center">
